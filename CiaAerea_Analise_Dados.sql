@@ -28,7 +28,7 @@ ORDER BY "TotalVoos" DESC;
 -- Distribuição de status de voo [Voo, StatusVoo]
 
 SELECT 
-	"cStatusVoo", COUNT(*) AS "TotalVoos", SUM("dPrecoTotal") AS "ValorTotal (R$)" FROM "Voo"
+	"cStatusVoo" AS "StatusVoo", COUNT(*) AS "TotalVoos", SUM("dPrecoTotal") AS "ValorTotal (R$)" FROM "Voo"
 GROUP BY "cStatusVoo"
 ORDER BY "TotalVoos" DESC;
 
@@ -86,14 +86,6 @@ SELECT
 GROUP BY "cCategoria" 
 ORDER BY "Total_Passageiros" DESC;
 
--- Categoria do programa fidelidade mais adquirida [Reserva, ProgramaFidelidade]
-
-SELECT 
-	"cCategoria" AS "Categoria", COUNT(*) AS "QtdClientes" FROM "ProgramaFidelidade"
-GROUP BY "Categoria"
-ORDER BY "QtdClientes" DESC
-LIMIT 1;
-
 -- Três tripulantes com menos vôos atribuíduos [Voo, Tripulacao]
 
 SELECT 
@@ -118,3 +110,5 @@ LEFT JOIN "Voo" ON "Voo"."nCdAeronave" = "Aeronave"."nCdAeronave"
 WHERE "Voo"."cStatusVoo" = 'Concluído'
 GROUP BY "Aeronave"
 ORDER BY "QtdVoos" DESC;
+
+
