@@ -1,1 +1,1 @@
-*.pgsql linguist-language=pgsql
+*.sql linguist-language=pgsql
