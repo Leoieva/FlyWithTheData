@@ -26,7 +26,7 @@
 
   ![image](https://github.com/user-attachments/assets/814a471c-8fc0-4bda-9764-d779104fe261)
 
-  *Na prática: É um sinal positivo haver mais voos programados e concluídos do que cancelados e atrasados, porém, com a*
+  *Na prática: É um sinal positivo haver mais voos programados e concluídos do que cancelados e atrasados, porém, a Cia Aérea deve sempre analisar e buscar a causa dos cancelamentos e atrasos em seus voos, onde em grande porcentagem o motivo é origem pela própria companhia. Logo, esse desafio deve ser primeiramente solucionado, e depois diminuir a taxa pela causa do cliente, o maior desafio.*
 
    ===========================================================================
 
