@@ -20,7 +20,7 @@
   
   *Na prática: Para as cidades menos visitadas, a Cia Aérea pode investir em campanhas de marketing aumentar a taxa de visitas ou promover mais descontos no valor da viagem (tanto de ida quanto de volta) ou descontos em pontos e comércios turísticos da cidade na compra da passagem.*
 
-  ============================================================================================
+  ===========================================================================
 
   **2- Distribuição de status de voo**
 
@@ -28,7 +28,7 @@
 
   *Na prática: É um sinal positivo haver mais voos programados e concluídos do que cancelados e atrasados, porém, com a*
 
-   ============================================================================================
+   ===========================================================================
 
   **3- Distribuição da faixa etária dos passageiros**
 
@@ -36,7 +36,7 @@
 
   *Na prática: A falta ou o baixo do volume de clientes jovens e idosos pode preocupar, porque em muitos países podem ser a maior parte da população. Logo, campanhas de marketing especializadas para esses 2 tipos de públicos distintos pode aumentar a receita líquida e como consequência, aumentar a taxa de voos nas faixas etárias 21 a 30, 31 a 40 e 41 a 50 por necessitar acompanhar jovens ou idosos nas viajens.* 
   
-   ============================================================================================
+   ===========================================================================
   
    **4- Quantidade de reservas feitas por mês**
 
@@ -44,7 +44,7 @@
 
    *Na prática: Há uma taxa menor de reservas no mês de dezembro, logo, a Cia Aérea pode promover promoções de pacotes e descontos para o fim do ano com mais benefícios de milhas e em hotéis.*
 
-   ============================================================================================
+   ===========================================================================
 
    **5- Quantidade de voos cancelados e concluídos por faixa etária**
 
@@ -52,7 +52,7 @@
 
    *Na prática: Pessoas idosas e mais jovens tendem a viajar menos e faixas etárias com maior taxa de voos concluídos tendem a aumentar a sua taxa de cancelamento de voos. Portanto, o incentivo de promoções de intercâmbios e viagens a lugares com classificação social como "tranquilos" e a "vibe calma" podem atrair mais o público menos viajante.*
 
-   ============================================================================================
+   ===========================================================================
 
   **6- Quantidade de passageiros sem programa fidelidade**
 
@@ -60,7 +60,7 @@
 
   *Na prática: Se há mais clientes que não possuem a assinatura do programa fidelidade da companhia, causas como valores altos da mensalidade, poucos benefícios padrões ou exclusivos, pouca diversidade das categorias do programa para atender os diversos tipos de clientes que viajam ou pretendem viajar são muito frequentes no setor comercial aviário, porém, com um tratamento especializado em cada desafio, sem usar soluções generalizadas, podem aumentar a atração de clientes que já viajam a assinar o programa fidelidade ou possíveis clientes a começar a viajar já com o programa.*
 
-============================================================================================
+===========================================================================
 
  **7- Categorias do programa fidelidade mais adquiridas**
 
@@ -68,7 +68,7 @@
  
 *Na prática: a Cia Aérea pode oferecer a assinatura em categorias mais baixas, mais descontos e promoções aos clientes se quiserem subir para as categorias mais altas. Também é válido, avaliar sempre a distribuição de benefícios entre as categorias e a taxa de permanência dos clientes em cada categoria, assim a categoria "Ouro", por exemplo, pode aumentar a taxa de assinaturas influênciando o aumento das outras.*
 
-============================================================================================
+===========================================================================
 
   **8- Três tripulantes com menos vôos atribuídos**
 
@@ -76,7 +76,7 @@
 
   *Na prática: Deve haver uma distribuição de trabalho melhor calculada para/com a equipe de tripulação, e esse desafio toda Cia Aérea enfrenta e deseja muito resolver para evitar a saída e o excesso de horas trabalhadas nos funcionários, mas pode ocorrer soluções genéricas ou mal estudadas se não for visualizado antes um dos dados mais básicos que é a quantidade de tripulantes com menor taxa de voos atribuídos.*
 
-  ============================================================================================
+  ===========================================================================
 
   **9- Quantidade de tripulantes antigos e novos na companhia**
   
@@ -84,7 +84,7 @@
 
   *Na prática: Há mais funcionários novos do que antigos, o que pode indicar uma rotatividade alta e menor atração por trabalho na Cia Aérea. Contudo, a companhia contorna esse desafio analisando as suas ofertas de emprego, remuneração a curto e longo prazo, promoções, benefícios e a busca por melhor qualidade e segurança de vida.*
 
-============================================================================================
+===========================================================================
 
   **10- Quantidade de voos concluídos e receita por aeronave**
 
@@ -92,7 +92,7 @@
 
 *Na prática: A Cia Aérea precisa sempre tentar buscar o equilíbrio na quantidade de voos por aeronave, pois deve-se pensar que o custo da manuntenção periódica e preventiva de um avião é menor do que o custo da manutenção corretiva, e também a má distribuição causa na desvalorização da aeronave para a companhia, onde a receita que podia ser gerada com o avião não paga o custo alto da sua fabricação.*
 
-============================================================================================
+===========================================================================
 
 Em conclusão, poucos dados são capazes de gerar os mesmos insights que muitos dados, e a entender o seu próprio mercado e seus números é sempre muito mais lucrativo, ainda mais sendo o quanto antes.
 
@@ -101,8 +101,3 @@ Além de todas essas informações acima, com esse projeto eu aprendi sobre:
 - A coerência na relação entre tabelas e colunas (chaves primárias e estrangerias),
 - A efiência em analisar dados de forma simples,
 - A organização em queries e em documentações.
-
-  
-
-  
-  
