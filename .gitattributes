@@ -1,1 +1,1 @@
-*.pgsql linguist-language=SQL linguist-detectable=true
+*.pgsql linguist-detectable=true
